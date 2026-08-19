@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Andrey 👋
 
-<!--
-**Dannikov13/Dannikov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building modern web applications with React and TypeScript.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- TypeScript
+- JavaScript
+- Vite
+- Tailwind CSS
+- dnd-kit
+- Temporal API
+- Vitest
+- Testing Library
+- ESLint
+- Prettier
+- Git
+- GitHub Actions
+
+## Featured Project
+
+### Kanban Board
+
+Modern Kanban board built with React, TypeScript, Vite and Tailwind CSS.
+
+- Drag and drop
+- Task reordering
+- Search, filtering and sorting
+- Due dates
+- Custom date & time picker
+- LocalStorage persistence
+- FSD Lite architecture
+- Automated CI with GitHub Actions
+
+[Live Demo](https://dannikov-react-kanban.netlify.app) · [Repository](https://github.com/Dannikov13/react-kanban)
+
+## Currently Looking For
+
+Junior Frontend Developer opportunities.
