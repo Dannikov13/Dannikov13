@@ -1,37 +1,28 @@
 # Hi, I'm Andrey 👋
 
-Frontend Developer focused on building modern web applications with React and TypeScript.
+Frontend developer focused on React and TypeScript, building responsive web applications.
+
+Open to Junior Frontend Developer opportunities.
 
 ## Tech Stack
 
-- React
-- TypeScript
-- JavaScript
-- Vite
-- Tailwind CSS
-- dnd-kit
-- Temporal API
-- Vitest
-- Testing Library
-- ESLint
-- Prettier
-- Git
-- GitHub Actions
+- **Frontend:** React, TypeScript, JavaScript, Zustand, Vite, Tailwind CSS, dnd-kit, Temporal API
+- **Backend:** Node.js, Express, REST APIs, PostgreSQL
+- **Testing:** Vitest, Testing Library, Playwright
+- **Tools:** Git, GitHub Actions, ESLint, Prettier
 
 ## Featured Project
 
 ### Kanban Board
 
-Modern Kanban board built with React, TypeScript, Vite and Tailwind CSS.
+A full-stack task board built with React, TypeScript, Zustand, Express, and PostgreSQL.
 
-- Drag and drop
-- Task reordering
-- Search, filtering and sorting
-- Due dates
-- Custom date & time picker
-- LocalStorage persistence
-- FSD Lite architecture
-- Automated CI with GitHub Actions
+- Create, edit, and delete tasks
+- Drag and drop tasks between columns and save their order
+- Search, filter, and sort tasks
+- Set due dates and times
+- Responsive interface with light and dark themes
+- Frontend utility tests, backend service tests, and Playwright E2E specs
 
 [Live Demo](https://dannikov-react-kanban.netlify.app) · [Repository](https://github.com/Dannikov13/react-kanban)
 
